@@ -1,7 +1,7 @@
 # hands-on-data-science-example
-Data Science zum Mitmachen: Wetter, Radfahrer und mehr...
+Data Science zum Mitmachen: Wetter, Radfahrer und mehr... 
 
-<img src="https://github.com/QuantificAid/diy-iot2ds/blob/master/pics/Birds_logo.png" width=100></br> 
+<img src="https://github.com/QuantificAid/diy-iot2ds/blob/master/pics/BOM_icon_orange.png" width=100></br> 
 
 ## Darum geht's
 
